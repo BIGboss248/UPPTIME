@@ -4,13 +4,13 @@ repo: upptime # The name of this repository
 
 sites:
   - name: Google
-    url: $google
+    url: $GOOGLE
   - name: Wikipedia
     url: https://en.wikipedia.org
   - name: Hacker News
     url: https://news.ycombinator.com
   - name: first
-    url: $winbox
+    url: $WINBOX
   - name: IPv6 test
     url: forwardemail.net
     port: 80
