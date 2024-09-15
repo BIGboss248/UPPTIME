@@ -4,7 +4,7 @@ repo: upptime # The name of this repository
 
 sites:
   - name: IR_X
-    url: $IR_X
+    url: $X_IR
   # - name: first
   #   url: $WINBOX
   # - name: IPv6 test
