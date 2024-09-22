@@ -4,7 +4,7 @@
     "url": "$X_IR",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "ir-x",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 449,
     "timeMonth": 449,
     "timeYear": 449,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-09-22": 0
+    }
   },
   {
     "name": "DNS_Server",
@@ -34,7 +36,7 @@
     "timeMonth": 190,
     "timeYear": 190,
     "dailyMinutesDown": {
-      "2024-09-22": 71,
+      "2024-09-22": 375,
       "2024-09-21": 1440,
       "2024-09-20": 1440,
       "2024-09-19": 1440,
