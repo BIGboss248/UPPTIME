@@ -4,7 +4,7 @@
     "url": "$X_IR",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "ir-x",
-    "status": "up",
+    "status": "down",
     "uptime": "96.75%",
     "uptimeDay": "71.43%",
     "uptimeWeek": "95.73%",
@@ -37,7 +37,7 @@
     "timeMonth": 165,
     "timeYear": 165,
     "dailyMinutesDown": {
-      "2024-09-24": 1027,
+      "2024-09-24": 1048,
       "2024-09-23": 1440,
       "2024-09-22": 1440,
       "2024-09-21": 1440,
