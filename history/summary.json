@@ -4,18 +4,19 @@
     "url": "$X_IR",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "ir-x",
-    "status": "up",
-    "uptime": "96.28%",
+    "status": "down",
+    "uptime": "96.35%",
     "uptimeDay": "65.95%",
     "uptimeWeek": "94.95%",
-    "uptimeMonth": "96.28%",
-    "uptimeYear": "96.28%",
+    "uptimeMonth": "96.35%",
+    "uptimeYear": "96.35%",
     "time": 444,
     "timeDay": 442,
     "timeWeek": 447,
     "timeMonth": 444,
     "timeYear": 444,
     "dailyMinutesDown": {
+      "2024-09-25": 0,
       "2024-09-24": 490,
       "2024-09-22": 19
     }
@@ -37,7 +38,7 @@
     "timeMonth": 176,
     "timeYear": 176,
     "dailyMinutesDown": {
-      "2024-09-25": 68,
+      "2024-09-25": 309,
       "2024-09-24": 1440,
       "2024-09-23": 1440,
       "2024-09-22": 1440,
