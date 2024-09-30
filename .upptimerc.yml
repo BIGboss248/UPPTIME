@@ -11,8 +11,8 @@ sites:
     url: $IRANXUI
     port: $IRANXUIPORT
     check: "tcp-ping"
-  - name: Google
-    url: https://www.google.com
+  - name: "DNS Server"
+    url: $DNSUS
   # - name: first
   #   url: $WINBOX
   # - name: IPv6 test
