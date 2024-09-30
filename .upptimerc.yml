@@ -9,6 +9,8 @@ sites:
     url: https://www.google.com
   - name: Google dns
     url: $Google_DNS
+    check: "tcp-ping"
+    port: 53
   # - name: first
   #   url: $WINBOX
   # - name: IPv6 test
