@@ -4,19 +4,19 @@
     "url": "$IRROUTEROS",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "ir-routeros",
-    "status": "up",
-    "uptime": "73.46%",
-    "uptimeDay": "73.46%",
-    "uptimeWeek": "73.46%",
-    "uptimeMonth": "73.46%",
-    "uptimeYear": "73.46%",
+    "status": "down",
+    "uptime": "74.75%",
+    "uptimeDay": "74.75%",
+    "uptimeWeek": "74.75%",
+    "uptimeMonth": "74.75%",
+    "uptimeYear": "74.75%",
     "time": 572,
     "timeDay": 572,
     "timeWeek": 572,
     "timeMonth": 572,
     "timeYear": 572,
     "dailyMinutesDown": {
-      "2024-09-30": 143
+      "2024-09-30": 138
     }
   },
   {
