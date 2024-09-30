@@ -7,6 +7,10 @@ sites:
     url: $IRROUTEROS
     check: "tcp-ping"
     port: $IRROUTEROSPORT
+  - name: "IR XUI"
+    url: $IRANXUI
+    port: $IRANXUIPORT
+    check: "tcp-ping"
   - name: Google
     url: https://www.google.com
   # - name: first
