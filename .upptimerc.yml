@@ -7,6 +7,8 @@ sites:
     url: $IR_ROUTEROS
   - name: Google
     url: https://www.google.com
+  - name: Google dns
+    url: $Google_DNS
   # - name: first
   #   url: $WINBOX
   # - name: IPv6 test
