@@ -9,10 +9,6 @@ sites:
     port: $IRROUTEROSPORT
   - name: Google
     url: https://www.google.com
-  - name: Google dns
-    url: $GOOGLEDNS
-    check: "tcp-ping"
-    port: $DNSPORT
   # - name: first
   #   url: $WINBOX
   # - name: IPv6 test
