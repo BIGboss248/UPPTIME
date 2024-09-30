@@ -5,18 +5,38 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "ir-routeros",
     "status": "down",
-    "uptime": "45.86%",
-    "uptimeDay": "45.86%",
-    "uptimeWeek": "45.86%",
-    "uptimeMonth": "45.86%",
-    "uptimeYear": "45.86%",
+    "uptime": "47.88%",
+    "uptimeDay": "47.88%",
+    "uptimeWeek": "47.88%",
+    "uptimeMonth": "47.88%",
+    "uptimeYear": "47.88%",
     "time": 547,
     "timeDay": 547,
     "timeWeek": 547,
     "timeMonth": 547,
     "timeYear": 547,
     "dailyMinutesDown": {
-      "2024-09-30": 53
+      "2024-09-30": 65
+    }
+  },
+  {
+    "name": "IR XUI",
+    "url": "$IRANXUI",
+    "icon": "https://icons.duckduckgo.com/ip3/null.ico",
+    "slug": "ir-xui",
+    "status": "down",
+    "uptime": "6.69%",
+    "uptimeDay": "6.69%",
+    "uptimeWeek": "6.69%",
+    "uptimeMonth": "6.69%",
+    "uptimeYear": "6.69%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {
+      "2024-09-30": 0
     }
   },
   {
@@ -31,8 +51,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 86,
-    "timeDay": 86,
-    "timeWeek": 86,
+    "timeDay": 87,
+    "timeWeek": 87,
     "timeMonth": 86,
     "timeYear": 86,
     "dailyMinutesDown": {}
