@@ -5,18 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "ir-routeros",
     "status": "down",
-    "uptime": "4.40%",
-    "uptimeDay": "4.40%",
-    "uptimeWeek": "4.40%",
-    "uptimeMonth": "4.40%",
-    "uptimeYear": "4.40%",
+    "uptime": "3.66%",
+    "uptimeDay": "3.66%",
+    "uptimeWeek": "3.66%",
+    "uptimeMonth": "3.66%",
+    "uptimeYear": "3.66%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-09-30": 11
+      "2024-09-30": 13
     }
   },
   {
@@ -42,17 +42,19 @@
     "url": "$GOOGLEDNS",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "google-dns",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.49%",
+    "uptimeDay": "99.49%",
+    "uptimeWeek": "99.49%",
+    "uptimeMonth": "99.49%",
+    "uptimeYear": "99.49%",
     "time": 3,
     "timeDay": 3,
     "timeWeek": 3,
     "timeMonth": 3,
     "timeYear": 3,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-09-30": 0
+    }
   }
 ]
