@@ -5,18 +5,36 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "ir-stat",
     "status": "down",
-    "uptime": "20.03%",
-    "uptimeDay": "20.03%",
-    "uptimeWeek": "20.03%",
-    "uptimeMonth": "20.03%",
-    "uptimeYear": "20.03%",
+    "uptime": "12.75%",
+    "uptimeDay": "12.75%",
+    "uptimeWeek": "12.75%",
+    "uptimeMonth": "12.75%",
+    "uptimeYear": "12.75%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-09-30": 5
+      "2024-09-30": 9
     }
+  },
+  {
+    "name": "Google",
+    "url": "https://www.google.com",
+    "icon": "https://icons.duckduckgo.com/ip3/www.google.com.ico",
+    "slug": "google",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 90,
+    "timeDay": 114,
+    "timeWeek": 114,
+    "timeMonth": 90,
+    "timeYear": 90,
+    "dailyMinutesDown": {}
   }
 ]
