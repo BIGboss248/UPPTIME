@@ -1,27 +1,5 @@
 [
   {
-    "name": "IR_ROUTEROS",
-    "url": "$IRROUTEROS",
-    "icon": "https://icons.duckduckgo.com/ip3/null.ico",
-    "slug": "ir-routeros",
-    "status": "up",
-    "uptime": "68.53%",
-    "uptimeDay": "57.64%",
-    "uptimeWeek": "68.53%",
-    "uptimeMonth": "68.53%",
-    "uptimeYear": "68.53%",
-    "time": 579,
-    "timeDay": 587,
-    "timeWeek": 579,
-    "timeMonth": 579,
-    "timeYear": 579,
-    "dailyMinutesDown": {
-      "2024-10-02": 106,
-      "2024-10-01": 550,
-      "2024-09-30": 138
-    }
-  },
-  {
     "name": "DNS Server",
     "url": "$DNSUS",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
@@ -32,11 +10,11 @@
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 180,
-    "timeDay": 374,
-    "timeWeek": 183,
-    "timeMonth": 180,
-    "timeYear": 180,
+    "time": 197,
+    "timeDay": 431,
+    "timeWeek": 216,
+    "timeMonth": 197,
+    "timeYear": 197,
     "dailyMinutesDown": {
       "2024-09-30": 758,
       "2024-09-29": 1440,
