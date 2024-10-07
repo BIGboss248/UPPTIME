@@ -1,7 +1,7 @@
 url: $DNSUS
-status: down
-code: 502
-responseTime: 298
-lastUpdated: 2024-10-07T05:32:27.047Z
+status: up
+code: 200
+responseTime: 589
+lastUpdated: 2024-10-07T05:48:50.805Z
 startTime: 2024-09-30T13:13:58.100Z
 generator: Upptime <https://github.com/upptime/upptime>
