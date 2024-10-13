@@ -4,7 +4,7 @@
     "url": "$DNSUS",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "dns-server",
-    "status": "up",
+    "status": "down",
     "uptime": "0.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.84%",
@@ -16,6 +16,7 @@
     "timeMonth": 407,
     "timeYear": 407,
     "dailyMinutesDown": {
+      "2024-10-13": 0,
       "2024-10-07": 16,
       "2024-09-30": 758,
       "2024-09-29": 1440,
