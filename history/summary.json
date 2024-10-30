@@ -40,9 +40,9 @@
     "url": "$DOCKER_REGISTRY",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "docker-registry",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -51,6 +51,8 @@
     "timeWeek": 223,
     "timeMonth": 195,
     "timeYear": 195,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-10-30": 0
+    }
   }
 ]
