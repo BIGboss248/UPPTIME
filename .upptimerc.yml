@@ -7,8 +7,6 @@ sites:
     url: $DNSUS
   - name: "Adguard DNS server"
     url: $ADGUARD_DNS
-  - name: "Docker registry"
-    url: $DOCKER_REGISTRY
   # - name: first
   #   url: $WINBOX
   # - name: IPv6 test
