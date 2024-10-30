@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 178,
-    "timeDay": 359,
-    "timeWeek": 215,
-    "timeMonth": 178,
-    "timeYear": 178,
+    "time": 172,
+    "timeDay": 225,
+    "timeWeek": 199,
+    "timeMonth": 172,
+    "timeYear": 172,
     "dailyMinutesDown": {}
   },
   {
@@ -28,31 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 760,
-    "timeDay": 743,
-    "timeWeek": 747,
-    "timeMonth": 760,
-    "timeYear": 760,
+    "time": 754,
+    "timeDay": 705,
+    "timeWeek": 737,
+    "timeMonth": 754,
+    "timeYear": 754,
     "dailyMinutesDown": {}
-  },
-  {
-    "name": "Docker registry",
-    "url": "$DOCKER_REGISTRY",
-    "icon": "https://icons.duckduckgo.com/ip3/null.ico",
-    "slug": "docker-registry",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 195,
-    "timeDay": 326,
-    "timeWeek": 223,
-    "timeMonth": 195,
-    "timeYear": 195,
-    "dailyMinutesDown": {
-      "2024-10-30": 0
-    }
   }
 ]
