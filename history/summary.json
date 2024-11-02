@@ -10,11 +10,31 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 164,
-    "timeDay": 116,
-    "timeWeek": 170,
-    "timeMonth": 164,
-    "timeYear": 164,
+    "time": 167,
+    "timeDay": 156,
+    "timeWeek": 177,
+    "timeMonth": 167,
+    "timeYear": 167,
     "dailyMinutesDown": {}
+  },
+  {
+    "name": "Cloudflare DOH home",
+    "url": "$CLOUDFLARE_DOH_HOME",
+    "icon": "https://icons.duckduckgo.com/ip3/null.ico",
+    "slug": "cloudflare-doh-home",
+    "status": "down",
+    "uptime": "19.18%",
+    "uptimeDay": "19.18%",
+    "uptimeWeek": "19.18%",
+    "uptimeMonth": "19.18%",
+    "uptimeYear": "19.18%",
+    "time": 348,
+    "timeDay": 348,
+    "timeWeek": 348,
+    "timeMonth": 348,
+    "timeYear": 348,
+    "dailyMinutesDown": {
+      "2024-11-02": 0
+    }
   }
 ]
