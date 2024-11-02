@@ -10,51 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 167,
-    "timeDay": 156,
-    "timeWeek": 175,
-    "timeMonth": 167,
-    "timeYear": 167,
+    "time": 166,
+    "timeDay": 153,
+    "timeWeek": 172,
+    "timeMonth": 166,
+    "timeYear": 166,
     "dailyMinutesDown": {}
-  },
-  {
-    "name": "Cloudflare DOH home",
-    "url": "$CLOUDFLARE_DOH_HOME",
-    "icon": "https://icons.duckduckgo.com/ip3/null.ico",
-    "slug": "cloudflare-doh-home",
-    "status": "down",
-    "uptime": "1.02%",
-    "uptimeDay": "1.02%",
-    "uptimeWeek": "1.02%",
-    "uptimeMonth": "1.02%",
-    "uptimeYear": "1.02%",
-    "time": 307,
-    "timeDay": 307,
-    "timeWeek": 307,
-    "timeMonth": 307,
-    "timeYear": 307,
-    "dailyMinutesDown": {
-      "2024-11-02": 1
-    }
-  },
-  {
-    "name": "Cloudflare DOH office",
-    "url": "$CLOUDFLARE_DOH_OFFICE",
-    "icon": "https://icons.duckduckgo.com/ip3/null.ico",
-    "slug": "cloudflare-doh-office",
-    "status": "down",
-    "uptime": "8.26%",
-    "uptimeDay": "8.26%",
-    "uptimeWeek": "8.26%",
-    "uptimeMonth": "8.26%",
-    "uptimeYear": "8.26%",
-    "time": 337,
-    "timeDay": 337,
-    "timeWeek": 337,
-    "timeMonth": 337,
-    "timeYear": 337,
-    "dailyMinutesDown": {
-      "2024-11-02": 0
-    }
   }
 ]
