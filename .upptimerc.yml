@@ -7,6 +7,8 @@ sites:
     url: $DNSUS
   - name: "Cloudflare DOH home"
     url: $CLOUDFLARE_DOH_HOME
+  - name: "Cloudflare DOH office"
+    url: $CLOUDFLARE_DOH_OFFICE
   # - name: first
   #   url: $WINBOX
   # - name: IPv6 test
