@@ -22,17 +22,19 @@
     "url": "$ADGUARD_DNS",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "adguard-dns-server",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 704,
-    "timeDay": 506,
-    "timeWeek": 621,
-    "timeMonth": 704,
-    "timeYear": 704,
-    "dailyMinutesDown": {}
+    "time": 672,
+    "timeDay": 293,
+    "timeWeek": 561,
+    "timeMonth": 672,
+    "timeYear": 672,
+    "dailyMinutesDown": {
+      "2024-11-02": 0
+    }
   }
 ]
