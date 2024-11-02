@@ -10,31 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 166,
-    "timeDay": 114,
-    "timeWeek": 177,
-    "timeMonth": 166,
-    "timeYear": 166,
+    "time": 164,
+    "timeDay": 116,
+    "timeWeek": 170,
+    "timeMonth": 164,
+    "timeYear": 164,
     "dailyMinutesDown": {}
-  },
-  {
-    "name": "Adguard DNS server",
-    "url": "$ADGUARD_DNS",
-    "icon": "https://icons.duckduckgo.com/ip3/null.ico",
-    "slug": "adguard-dns-server",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 672,
-    "timeDay": 293,
-    "timeWeek": 561,
-    "timeMonth": 672,
-    "timeYear": 672,
-    "dailyMinutesDown": {
-      "2024-11-02": 0
-    }
   }
 ]
